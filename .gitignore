@@ -1,0 +1,12 @@
+target/
+*.log
+*.jar
+HELP.md
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+bin/
+/build/
+
